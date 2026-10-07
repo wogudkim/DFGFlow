@@ -1,0 +1,6 @@
+numpy>=1.24
+torch>=2.2
+tqdm>=4.66
+matplotlib>=3.7
+# MIMIC-IV preprocessing only:
+pandas>=2.2,<3
